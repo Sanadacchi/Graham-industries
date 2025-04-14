@@ -13,7 +13,7 @@ function App() {
           <Hero />
           <CTA />
         </div>
-        <div className="w-[500] absolute top-[-10rem] right-[-30rem] hidden lg:block">
+        <div className="w-[500] absolute top-[5rem] right-[0] hidden lg:block">
           <SplineScene/>
         </div>
       </div>
