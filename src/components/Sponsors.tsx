@@ -26,64 +26,64 @@ const Sponsors = () => {
       <div className="overflow-x-hidden">
         <div ref={sliderRef} className="flex gap-3 md:gap-5 min-w-max p-2">
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_1.jpg" alt="Dragon 1" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_1.jpg" alt="Dragon 1" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_2.jpg" alt="Dragon 2" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_2.jpg" alt="Dragon 2" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_3.jpg" alt="Dragon 3" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_3.jpg" alt="Dragon 3" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_4.jpg" alt="Dragon 4" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_4.jpg" alt="Dragon 4" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_5.jpg" alt="Dragon 5" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_5.jpg" alt="Dragon 5" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_6.jpg" alt="Dragon 6" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_6.jpg" alt="Dragon 6" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_7.jpg" alt="Dragon 7" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_7.jpg" alt="Dragon 7" />
           </div>
           <div className="w-[150px] h-[150px] md:w-[200px] md:h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_8.jpg" alt="Dragon 8" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_8.jpg" alt="Dragon 8" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_9.jpg" alt="Dragon 9" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_9.jpg" alt="Dragon 9" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_10.jpg" alt="Dragon 10" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_10.jpg" alt="Dragon 10" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_1.jpg" alt="Dragon 1" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_1.jpg" alt="Dragon 1" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_2.jpg" alt="Dragon 2" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_2.jpg" alt="Dragon 2" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_3.jpg" alt="Dragon 3" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_3.jpg" alt="Dragon 3" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_4.jpg" alt="Dragon 4" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_4.jpg" alt="Dragon 4" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_5.jpg" alt="Dragon 5" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_5.jpg" alt="Dragon 5" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_6.jpg" alt="Dragon 6" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_6.jpg" alt="Dragon 6" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_7.jpg" alt="Dragon 7" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_7.jpg" alt="Dragon 7" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_8.jpg" alt="Dragon 8" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_8.jpg" alt="Dragon 8" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_9.jpg" alt="Dragon 9" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_9.jpg" alt="Dragon 9" />
           </div>
           <div className="w-[200px] h-[200px] flex-shrink-0">
-            <img className="w-full h-full object-cover rounded-lg" src="/src/assets/slider-images/dragon_10.jpg" alt="Dragon 10" />
+            <img className="w-full h-full object-cover rounded-lg" src="/assets/slider-images/dragon_10.jpg" alt="Dragon 10" />
           </div>
         </div>
       </div>
